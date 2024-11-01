@@ -7,7 +7,7 @@ Hello! My name is **Kenza**, and here I'll be sharing my **AWS learning journey*
 
 Welcome to our exploration of Containers on AWS! 
  
-Now, let’s dive into our practical project: creating a Docker image and deploying it on Elastic Beanstalk.
+Let’s dive into our practical project: creating a Docker image and deploying it on Elastic Beanstalk.
 
 ## ➥ [🐳 Docker & AWS Elastic Beanstalk: A Complete Guide](https://github.com/Kzax01/Use-Docker-in-AWS-Elastic-Beanstalk/blob/main/Docker%20%26%20AWS%20Elastic%20Beanstalk-%20A%20Complete%20Guide.md)
 
