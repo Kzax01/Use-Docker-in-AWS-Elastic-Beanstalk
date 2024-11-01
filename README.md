@@ -1,7 +1,11 @@
-# 📦 Docker Image Creation and Deployment on AWS Elastic Beanstalk
+# 🌟 Welcome to My GitHub!
+
+Hello! My name is **Kenza**, and here I'll be sharing my **AWS learning journey**!
+
+----------
+## 📦 Docker Image Creation and Deployment on AWS Elastic Beanstalk
 
 Welcome to our exploration of Containers on AWS! 
-
  
 Now, let’s dive into our practical project: creating a Docker image and deploying it on Elastic Beanstalk.
 
