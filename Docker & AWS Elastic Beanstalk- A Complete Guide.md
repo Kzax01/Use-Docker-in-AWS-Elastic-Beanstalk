@@ -315,7 +315,11 @@ docker logs container_id
 
 ## ✨ Resources Used 
 
-- Docker Documentation
-- NextWork
-- AWS Elastic Beanstalk Documentation
-- Community Contributors
+- [Docker Documentation](https://docs.docker.com/)
+- [AWS Elastic Beanstalk Documentation](https://docs.aws.amazon.com/fr_fr/elastic-beanstalk/)
+
+### 💬 Let's Connect!
+Thank you for taking the time to read through my project! If you'd like to connect, feel free to reach out on LinkedIn: [Kenza S. - Cyber & Cloud](https://www.linkedin.com/in/kenza-s-cyber-cloud)
+
+### ☁️  I look forward to connecting with you!
+
